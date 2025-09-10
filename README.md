@@ -27,7 +27,7 @@ It helps users manage their daily tasks by adding, completing, and deleting item
 ---
 
 ## 🌐 Live Demo
-[Click here to view the project](https://your-username.github.io/todo-app/)
+[Click here to view the project](https://junaid691.github.io/todo-app/)
 
 ---
 
